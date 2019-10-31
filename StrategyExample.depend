@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1514140574 source:h:\wsvscode\strategyexample\main.cpp
+	<iostream>
+
+1572558698 source:h:\wsvscode\strategyexample\src\strategy.cpp
+	"strategy.h"
+
+1572558768 h:\wsvscode\strategyexample\include\strategy.h
+
+1572559505 source:h:\wsvscode\strategyexample\src\contexto.cpp
+	"contexto.h"
+
+1572559429 h:\wsvscode\strategyexample\include\contexto.h
+	"strategy.h"
+
