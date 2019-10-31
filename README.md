@@ -1,0 +1,2 @@
+# StrategyPattern
+Padrão Strategy
